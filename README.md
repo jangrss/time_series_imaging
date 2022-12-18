@@ -1,4 +1,4 @@
-# time_series_imaging <br />
+# Time Series Imaging <br />
 Main respository for the IEEE article "Benchmarking Transfer Learning Strategies In Time-Series Imaging: Recommendations for Analyzing Raw Sensor Data" <br />
 
 /src: main code <br />
